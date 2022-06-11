@@ -10,7 +10,7 @@ var classcmurphy_1_1fastpool_1_1_fast_pool =
     [ "Load", "classcmurphy_1_1fastpool_1_1_fast_pool.html#a8eda16fc706e5af9ccd4d70fad11e752", null ],
     [ "LoadOverTime", "classcmurphy_1_1fastpool_1_1_fast_pool.html#ae045c1dfd2a65223c9630fa83c60e1b9", null ],
     [ "Return", "classcmurphy_1_1fastpool_1_1_fast_pool.html#a03fb074a7192e46bfe55edae2130c59e", null ],
-    [ "CurrentInstanceCount", "classcmurphy_1_1fastpool_1_1_fast_pool.html#afa881e401faeaebabee2d2a69e3bd939", null ],
+    [ "AvailableInstancesCount", "classcmurphy_1_1fastpool_1_1_fast_pool.html#a790d1230065a9206449e05165d187ef3", null ],
     [ "IncrementCount", "classcmurphy_1_1fastpool_1_1_fast_pool.html#ad1373b9ed08f667ec9f41172977b1fcd", null ],
     [ "InitialQuantity", "classcmurphy_1_1fastpool_1_1_fast_pool.html#a1ff77b7b74b6dff4c15c23e4d8996999", null ],
     [ "IsInitialLoadSpread", "classcmurphy_1_1fastpool_1_1_fast_pool.html#ad90f88a53c93fdc21a2d83f03b48cc81", null ],
@@ -21,5 +21,6 @@ var classcmurphy_1_1fastpool_1_1_fast_pool =
     [ "PooledPrefab", "classcmurphy_1_1fastpool_1_1_fast_pool.html#ae0dc371dd0582b350816ad0943492492", null ],
     [ "PoolLogLevel", "classcmurphy_1_1fastpool_1_1_fast_pool.html#aee295fafba7b03e393b60d9e102ad548", null ],
     [ "ShouldLoadOnAwake", "classcmurphy_1_1fastpool_1_1_fast_pool.html#a97a6b42e063248b07e3971525b4c666c", null ],
+    [ "TakenInstancesCount", "classcmurphy_1_1fastpool_1_1_fast_pool.html#abc0d65afc268d550314c689128f11e61", null ],
     [ "WasLoaded", "classcmurphy_1_1fastpool_1_1_fast_pool.html#a36d32b358a31978a613d14125984584b", null ]
 ];
