@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['serverparameters_14',['ServerParameters',['../classcmurphy_1_1simpletcp_1_1server_1_1_server_parameters.html',1,'cmurphy::simpletcp::server']]]
+  ['itcpserverlistener_14',['ITCPServerListener',['../interfacecmurphy_1_1simpletcp_1_1server_1_1_i_t_c_p_server_listener.html',1,'cmurphy::simpletcp::server']]]
 ];

@@ -100,12 +100,12 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a6b6cb69ec8dfa5f605612a80be9f1b74"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcmurphy_1_1simpletcp_1_1server_1_1_t_c_p_server.html#a6b6cb69ec8dfa5f605612a80be9f1b74">ServerShutdown</a> ()</td></tr>
 <tr class="memdesc:a6b6cb69ec8dfa5f605612a80be9f1b74"><td class="mdescLeft">&#160;</td><td class="mdescRight">Shuts down the server, sending a server shutdown signal to all clients before disconnecting all of them.  <a href="classcmurphy_1_1simpletcp_1_1server_1_1_t_c_p_server.html#a6b6cb69ec8dfa5f605612a80be9f1b74">More...</a><br /></td></tr>
 <tr class="separator:a6b6cb69ec8dfa5f605612a80be9f1b74"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa4e26a7dafb01d089625173ead26f976"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcmurphy_1_1simpletcp_1_1server_1_1_t_c_p_server.html#aa4e26a7dafb01d089625173ead26f976">SendToAllClients</a> (byte[] bytes)</td></tr>
-<tr class="memdesc:aa4e26a7dafb01d089625173ead26f976"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sends the given data to all connected clients.  <a href="classcmurphy_1_1simpletcp_1_1server_1_1_t_c_p_server.html#aa4e26a7dafb01d089625173ead26f976">More...</a><br /></td></tr>
-<tr class="separator:aa4e26a7dafb01d089625173ead26f976"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa2be0ce04b4d3cc932822940b593a45b"><td class="memItemLeft" align="right" valign="top"><a id="aa2be0ce04b4d3cc932822940b593a45b"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SendToClient</b> (int clientID, byte[] bytes)</td></tr>
-<tr class="separator:aa2be0ce04b4d3cc932822940b593a45b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae56f85c69f25458bc277af943ddcb6fb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcmurphy_1_1simpletcp_1_1server_1_1_t_c_p_server.html#ae56f85c69f25458bc277af943ddcb6fb">SendToAllClients</a> (ArraySegment&lt; byte &gt; bytes)</td></tr>
+<tr class="memdesc:ae56f85c69f25458bc277af943ddcb6fb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sends the given data to all connected clients.  <a href="classcmurphy_1_1simpletcp_1_1server_1_1_t_c_p_server.html#ae56f85c69f25458bc277af943ddcb6fb">More...</a><br /></td></tr>
+<tr class="separator:ae56f85c69f25458bc277af943ddcb6fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69104bb22e8aaac71dc19a86b1dbeb3b"><td class="memItemLeft" align="right" valign="top"><a id="a69104bb22e8aaac71dc19a86b1dbeb3b"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SendToClient</b> (int clientID, ArraySegment&lt; byte &gt; bytes)</td></tr>
+<tr class="separator:a69104bb22e8aaac71dc19a86b1dbeb3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="properties"></a>
 Properties</h2></td></tr>
@@ -127,8 +127,8 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>Log</b> (LogLevel lev
 <tr class="separator:ab296e0d2de9de2bf46f51e31a2a90752 inherit pro_methods_classcmurphy_1_1simpletcp_1_1utils_1_1_customizable_logging_mono_behaviour"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa4e26a7dafb01d089625173ead26f976"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa4e26a7dafb01d089625173ead26f976">&#9670;&nbsp;</a></span>SendToAllClients()</h2>
+<a id="ae56f85c69f25458bc277af943ddcb6fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae56f85c69f25458bc277af943ddcb6fb">&#9670;&nbsp;</a></span>SendToAllClients()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -136,7 +136,7 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>Log</b> (LogLevel lev
         <tr>
           <td class="memname">void cmurphy.simpletcp.server.TCPServer.SendToAllClients </td>
           <td>(</td>
-          <td class="paramtype">byte[]&#160;</td>
+          <td class="paramtype">ArraySegment&lt; byte &gt;&#160;</td>
           <td class="paramname"><em>bytes</em></td><td>)</td>
           <td></td>
         </tr>
