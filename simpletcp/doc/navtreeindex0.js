@@ -11,6 +11,7 @@ var NAVTREEINDEX0 =
 "classcmurphy_1_1simpletcp_1_1server_1_1_t_c_p_server.html#ab981a826509a9fc84869617e6e4635c6":[1,0,0,0,1,1,3],
 "classcmurphy_1_1simpletcp_1_1server_1_1_t_c_p_server.html#ae56f85c69f25458bc277af943ddcb6fb":[1,0,0,0,1,1,0],
 "classcmurphy_1_1simpletcp_1_1utils_1_1_customizable_logging_mono_behaviour.html":[1,0,0,0,2,0],
+"classcmurphy_1_1simpletcp_1_1utils_1_1_customizable_logging_mono_behaviour.html#a85b8f5ce2e2684870d47a36c4c49abb5":[1,0,0,0,2,0,2],
 "classcmurphy_1_1simpletcp_1_1utils_1_1_customizable_logging_mono_behaviour.html#ab296e0d2de9de2bf46f51e31a2a90752":[1,0,0,0,2,0,1],
 "classcmurphy_1_1simpletcp_1_1utils_1_1_customizable_logging_mono_behaviour.html#acb578653277d51edcd0035e548977289":[1,0,0,0,2,0,0],
 "classcmurphy_1_1simpletcp_1_1utils_1_1_customizable_logging_mono_behaviour.html#acb578653277d51edcd0035e548977289a059e9861e0400dfbe05c98a841f3f96b":[1,0,0,0,2,0,0,1],
